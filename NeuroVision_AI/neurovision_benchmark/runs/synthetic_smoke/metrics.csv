@@ -1,0 +1,4 @@
+dataset,synthetic_fixture,seed,model,accuracy,balanced_accuracy,macro_f1,precision,recall,false_positive_rate,brier,latency_p50_ms,latency_p95_ms,test_samples
+SYNTHETIC,True,42,csi,1.0,1.0,1.0,1.0,1.0,0.0,0.2396317422389984,0.158,0.296,16
+SYNTHETIC,True,42,camera,0.5,0.5,0.3333333333333333,0.5,1.0,1.0,0.2432536482810974,0.029,0.032,16
+SYNTHETIC,True,42,fusion,0.5,0.5,0.3333333333333333,0.5,1.0,1.0,0.2444157749414444,0.193,1.401,16
